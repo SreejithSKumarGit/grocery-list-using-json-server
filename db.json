@@ -1,0 +1,19 @@
+{
+  "grocery": [
+    {
+      "title": "Sugar",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Wheat",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Pen",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
